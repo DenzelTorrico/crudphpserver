@@ -23,7 +23,8 @@
         }
     ?>
 
-<table class="table ">
+<table class="table container">
+    <h1>Crud Servidor</h1>
             <tr>
                 <th>id</th>
                 <th>nombre</th>
